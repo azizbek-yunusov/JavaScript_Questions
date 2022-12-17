@@ -10,4 +10,6 @@ function fizzBuzz(n) {
     return console.log("Buzz");
   }
 }
-fizzBuzz("string")
+fizzBuzz(15)
+
+// Output: FizzBuzz

@@ -13,3 +13,5 @@ function primeNumber(n) {
   }
 }
 console.log(primeNumber(15));
+
+// Output: false
